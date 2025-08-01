@@ -1,0 +1,25 @@
+{
+    "merchantDetails": {
+        "accountId": 140,
+        "mobileNumber": "140",
+        "entityName": "Default Top Up"
+    },
+    "customerDetails": {
+        "accountId": 1030905,
+        "mobileNumber": "66912345699",
+        "firstName": "Joe",
+        "lastName": "Bloggs",
+        "gender": "Not Specified"
+    },
+    "transactionDetails": {
+        "transactionStatus": "SUCCESS",
+        "transactionDate": 1728622702717,
+        "paymentType": "C2MD",
+        "amount": 100.00,
+        "unit": "THB",
+        "fromFee": 0.00,
+        "toFee": 0.00,
+        "transactionId": "2984847",
+        "transactionReference": "2984846"
+    }
+}

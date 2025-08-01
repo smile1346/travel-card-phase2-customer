@@ -1,0 +1,10 @@
+{
+    "transferredBalance": [
+        {
+            "currency": "THB",
+            "balanceType": "EMONEY",
+            "balanceDescription": "Emoney THB",
+            "balance": 0.00
+        }
+    ]
+}

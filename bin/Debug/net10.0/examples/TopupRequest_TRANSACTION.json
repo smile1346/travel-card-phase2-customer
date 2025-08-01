@@ -1,0 +1,16 @@
+{
+    "mode": "TRANSACTION",
+    "transactionDetails": {
+        "transactionAmount": "100.00",
+        "currency": "THB",
+        "channel": "BBL",
+        "terminalId": "API",
+        "externalReference": "100001",
+        "notes": "Test Topup"
+    },
+    "additionalDetails": {
+        "debtorName": "Joe Bloggs",
+        "debtorAccount": "0378463728",
+        "debtorAgent": "002"
+    }
+}

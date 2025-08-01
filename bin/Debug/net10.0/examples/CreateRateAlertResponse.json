@@ -1,0 +1,9 @@
+{
+    "id": "1",
+    "exchangeType": "SELL",
+    "currency": "USD",
+    "threshold": 35.00,
+    "availableAlertSlots": 9,
+    "createdAt": "2025-01-15T17:18:03+07:00",
+    "expiresAt": "2025-01-30T17:18:03+07:00"
+}

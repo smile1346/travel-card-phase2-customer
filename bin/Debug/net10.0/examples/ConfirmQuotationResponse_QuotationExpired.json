@@ -1,0 +1,10 @@
+{
+    "type": "https://emoney.youtap.com/problems/invalid-parameter",
+    "title": "Bad Request",
+    "detail": "Quotation already expired",
+    "status": 400,
+    "instance": "",
+    "errorKey": "invalid_parameters",
+    "errorCode": "1043",
+    "errorDescription": "Invalid parameters"
+}

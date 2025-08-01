@@ -1,0 +1,31 @@
+{
+    "merchantDetails": {
+        "accountId": 1042,
+        "mobileNumber": "682726121299",
+        "entityName": "Joe Bloggs",
+        "balance": {
+            "balanceType": "EMONEY",
+            "balanceTypeDescription": "Emoney THB",
+            "balanceUnit": "THB",
+            "balanceAmount": 12500,
+            "balanceDisplayAmount": "12,500.00"
+        }
+    },
+    "customerDetails": {
+        "accountId": 1043,
+        "mobileNumber": "27260000001",
+        "firstName": "Joe",
+        "lastName": "Bloggs",
+        "gender": "NA"
+    },
+    "transactionDetails": {
+        "transactionStatus": "SUCCESS",
+        "transactionDate": 1726048772300,
+        "paymentType": "C2MP",
+        "amount": 100.00,
+        "unit": "THB",
+        "fromFee": 0.00,
+        "toFee": 0.00,
+        "qrCodeExpiry": 0
+    }
+}

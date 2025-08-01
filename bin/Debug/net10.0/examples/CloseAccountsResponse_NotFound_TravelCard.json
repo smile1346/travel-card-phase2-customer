@@ -1,0 +1,10 @@
+{
+    "type": "https://emoney.youtap.com/problems/resource-not-found",
+    "title": "Customer Not Found",
+    "detail": "Account not found",
+    "status": 404,
+    "instance": "",
+    "errorKey": "resource_not_found",
+    "errorCode": "1052",
+    "errorDescription": "Resource could not be found"
+}

@@ -1,0 +1,203 @@
+[
+    {
+        "clientType": "YTS",
+        "customerId": 1071332,
+        "accountId": 1072333,
+        "accountName": null,
+        "suspended": false,
+        "fraudLocked": false,
+        "accountStatus": "Active - usable",
+        "accountStatusId": 5,
+        "default": true,
+        "accountType": "Travel Wallet",
+        "accountTypeId": 58,
+        "accountColor": null,
+        "walletType": null,
+        "walletTypeId": null,
+        "createdDate": 1750238887275,
+        "maturityDate": null,
+        "externalId": "160010001072333",
+        "balances": [
+            {
+                "balanceId": 1304771,
+                "balance": 0.00,
+                "balanceType": "EMONEY_AUD",
+                "balanceTypeId": 3002,
+                "metric": {
+                    "unitLongName": "Australian Dollar",
+                    "unitShortName": "AUD",
+                    "displayString": "AU$",
+                    "displayDivisor": 100,
+                    "displayUnitDelimiter": ",",
+                    "displayUnitMinorDelimiter": ".",
+                    "displayFormatter": "#,##0.00"
+                }
+            },
+            {
+                "balanceId": 1304772,
+                "balance": 0.00,
+                "balanceType": "EMONEY_CAD",
+                "balanceTypeId": 3003,
+                "metric": {
+                    "unitLongName": "Canadian Dollar",
+                    "unitShortName": "CAD",
+                    "displayString": "CA$",
+                    "displayDivisor": 100,
+                    "displayUnitDelimiter": ",",
+                    "displayUnitMinorDelimiter": ".",
+                    "displayFormatter": "#,##0.00"
+                }
+            },
+            {
+                "balanceId": 1304773,
+                "balance": 0.00,
+                "balanceType": "EMONEY_CHF",
+                "balanceTypeId": 3004,
+                "metric": {
+                    "unitLongName": "Swiss Franc",
+                    "unitShortName": "CHF",
+                    "displayString": "Fr",
+                    "displayDivisor": 100,
+                    "displayUnitDelimiter": ",",
+                    "displayUnitMinorDelimiter": ".",
+                    "displayFormatter": "#,##0.00"
+                }
+            },
+            {
+                "balanceId": 1304774,
+                "balance": 0.00,
+                "balanceType": "EMONEY_CNY",
+                "balanceTypeId": 3005,
+                "metric": {
+                    "unitLongName": "Chinese Yuan Renminbi",
+                    "unitShortName": "CNY",
+                    "displayString": "CN¥",
+                    "displayDivisor": 100,
+                    "displayUnitDelimiter": ",",
+                    "displayUnitMinorDelimiter": ".",
+                    "displayFormatter": "#,##0.00"
+                }
+            },
+            {
+                "balanceId": 1304775,
+                "balance": 0.00,
+                "balanceType": "EMONEY_EUR",
+                "balanceTypeId": 3006,
+                "metric": {
+                    "unitLongName": "Euro",
+                    "unitShortName": "EUR",
+                    "displayString": "€",
+                    "displayDivisor": 100,
+                    "displayUnitDelimiter": ",",
+                    "displayUnitMinorDelimiter": ".",
+                    "displayFormatter": "#,##0.00"
+                }
+            },
+            {
+                "balanceId": 1304776,
+                "balance": 0.00,
+                "balanceType": "EMONEY_GBP",
+                "balanceTypeId": 3007,
+                "metric": {
+                    "unitLongName": "British Pound Sterling",
+                    "unitShortName": "GBP",
+                    "displayString": "£",
+                    "displayDivisor": 100,
+                    "displayUnitDelimiter": ",",
+                    "displayUnitMinorDelimiter": ".",
+                    "displayFormatter": "#,##0.00"
+                }
+            },
+            {
+                "balanceId": 1304777,
+                "balance": 0.00,
+                "balanceType": "EMONEY_HKD",
+                "balanceTypeId": 3009,
+                "metric": {
+                    "unitLongName": "Hong Kong Dollar",
+                    "unitShortName": "HKD",
+                    "displayString": "HK$",
+                    "displayDivisor": 100,
+                    "displayUnitDelimiter": ",",
+                    "displayUnitMinorDelimiter": ".",
+                    "displayFormatter": "#,##0.00"
+                }
+            },
+            {
+                "balanceId": 1304778,
+                "balance": 0,
+                "balanceType": "EMONEY_JPY",
+                "balanceTypeId": 3012,
+                "metric": {
+                    "unitLongName": "Japenese Yen",
+                    "unitShortName": "JPY",
+                    "displayString": "¥",
+                    "displayDivisor": 0,
+                    "displayUnitDelimiter": ",",
+                    "displayUnitMinorDelimiter": ".",
+                    "displayFormatter": "#,##0.00"
+                }
+            },
+            {
+                "balanceId": 1304779,
+                "balance": 0.00,
+                "balanceType": "EMONEY_NZD",
+                "balanceTypeId": 3014,
+                "metric": {
+                    "unitLongName": "NZ Dollars",
+                    "unitShortName": "NZD",
+                    "displayString": "NZ$",
+                    "displayDivisor": 100,
+                    "displayUnitDelimiter": ",",
+                    "displayUnitMinorDelimiter": ".",
+                    "displayFormatter": "#,##0.00"
+                }
+            },
+            {
+                "balanceId": 1304780,
+                "balance": 0.00,
+                "balanceType": "EMONEY_SGD",
+                "balanceTypeId": 3015,
+                "metric": {
+                    "unitLongName": "Singapore Dollar",
+                    "unitShortName": "SGD",
+                    "displayString": "SG$",
+                    "displayDivisor": 100,
+                    "displayUnitDelimiter": ",",
+                    "displayUnitMinorDelimiter": ".",
+                    "displayFormatter": "#,##0.00"
+                }
+            },
+            {
+                "balanceId": 1304781,
+                "balance": 1.00,
+                "balanceType": "EMONEY_USD",
+                "balanceTypeId": 3016,
+                "metric": {
+                    "unitLongName": "United States Dollar",
+                    "unitShortName": "USD",
+                    "displayString": "US$",
+                    "displayDivisor": 100,
+                    "displayUnitDelimiter": ",",
+                    "displayUnitMinorDelimiter": ".",
+                    "displayFormatter": "#,##0.00"
+                }
+            },
+            {
+                "balanceId": 1304782,
+                "balance": 0.00,
+                "balanceType": "EMONEY",
+                "balanceTypeId": 3000,
+                "metric": {
+                    "unitLongName": "Thai Baht",
+                    "unitShortName": "THB",
+                    "displayString": "฿",
+                    "displayDivisor": 100,
+                    "displayUnitDelimiter": ",",
+                    "displayUnitMinorDelimiter": ".",
+                    "displayFormatter": "#,##0.00"
+                }
+            }
+        ]
+    }
+]

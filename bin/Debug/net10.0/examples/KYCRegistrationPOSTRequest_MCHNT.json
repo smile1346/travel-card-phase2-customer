@@ -1,0 +1,8 @@
+{
+    "mobileNumber": "66912345678",
+    "customerContact": {
+        "firstName": "Joe",
+        "lastName": "Bloggs"
+    },
+    "type": "MCHNT"
+}

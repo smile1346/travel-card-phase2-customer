@@ -1,0 +1,19 @@
+{
+    "mode":"TRANSACTION",
+    "transactionDetails": {
+        "transactionAmount": "100.00",
+        "currency": "USD",
+        "channel": "EDC/ECOM",
+        "terminalId": "API",
+        "externalReference": "100005",
+        "notes": "Test Spending (Supported currencies)"
+    },
+    "additionalDetails":{
+        "merchantId": "STARBUCKS-USD-001",
+        "merchantName": "Starbucks",
+        "merchantBranchCode": "NEWYORK",
+        "merchantCountry": "US",
+        "acquiringBankCode": "BOFAUS3N",
+        "acquiringBankName": "Bank of America, NA"
+    }
+}

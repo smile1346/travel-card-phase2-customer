@@ -1,0 +1,21 @@
+{
+    "mode": "TRANSACTION",
+    "transactionDetails": {
+        "transactionAmount": "100.00",
+        "currency": "KRW",
+        "equivalentAmount": "2.34",
+        "equivalentCurrency": "THB",
+        "channel": "EDC/ECOM",
+        "terminalId": "API",
+        "externalReference": "100005",
+        "notes": "Test Spending (Unsupported currencies)"
+    },
+    "additionalDetails":{
+        "merchantId": "STARBUCKS-KRW-001",
+        "merchantName": "Starbucks",
+        "merchantBranchCode": "SEOUL",
+        "merchantCountry": "KR",
+        "acquiringBankCode": "EXIKKRSEXXX",
+        "acquiringBankName": "THE EXPORT-IMPORT BANK OF KOREA"
+    }
+}

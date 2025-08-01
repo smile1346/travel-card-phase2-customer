@@ -1,0 +1,29 @@
+{
+    "status": 0,
+    "error": null,
+    "toTransactionId": 14113481,
+    "fromTransactionId": 14113480,
+    "fee": {
+        "toFee": {
+            "amount": 0.00,
+            "currency": "THB"
+        },
+        "fromFee": {
+            "amount": 0.00,
+            "currency": "THB"
+        }
+    },
+    "couponAmount": null,
+    "additional": {
+        "productId": "et",
+        "billerType": "",
+        "billerIdentifier": "etb",
+        "payerName": "Jatutep+Bunupuradah",
+        "billDate": "2024-12-15T05:46:06.931625725",
+        "paymentPurpose": "Performance-Testing",
+        "merchantAccountId": "1041",
+        "billerName": "Electric+Train",
+        "productTypeCode": "",
+        "productName": "Electric+Train"
+    }
+}

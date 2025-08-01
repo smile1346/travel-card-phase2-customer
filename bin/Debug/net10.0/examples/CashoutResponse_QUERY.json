@@ -1,0 +1,38 @@
+{
+    "merchantDetails": {
+        "accountId": 150,
+        "mobileNumber": "150",
+        "entityName": "Default Cashout",
+        "balance": {
+            "balanceType": "EMONEY",
+            "balanceTypeDescription": "Emoney THB",
+            "balanceUnit": "THB",
+            "balanceAmount": -705.00,
+            "balanceDisplayAmount": "-705.00"
+        }
+    },
+    "customerDetails": {
+        "accountId": 2254,
+        "mobileNumber": "66909699790",
+        "firstName": "Jatutep",
+        "lastName": "Bunupuradah",
+        "gender": "Not Specified",
+        "balance": {
+            "balanceType": "EMONEY",
+            "balanceTypeDescription": "Emoney THB",
+            "balanceUnit": "THB",
+            "balanceAmount": 28569.48,
+            "balanceDisplayAmount": "28,569.48"
+        }
+    },
+    "transactionDetails": {
+        "transactionStatus": "SUCCESS",
+        "transactionDate": 1737189690603,
+        "paymentType": "C2MW",
+        "amount": 100.00,
+        "unit": "THB",
+        "fromFee": 0.00,
+        "toFee": 0.00,
+        "qrCodeExpiry": 0
+    }
+}

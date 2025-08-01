@@ -1,0 +1,16 @@
+{
+    "id": "1420",
+    "customerId": 2212,
+    "type": "SELL",
+    "exchangeRate": 34.29,
+    "fromCurrency": {
+        "amount": 87.49,
+        "currency": "USD"
+    },
+    "toCurrency": {
+        "amount": 3000.00,
+        "currency": "THB"
+    },
+    "createdAt": "2025-01-17T17:35:03+07:00",
+    "expiresAt": "2025-01-17T17:40:03+07:00"
+}
