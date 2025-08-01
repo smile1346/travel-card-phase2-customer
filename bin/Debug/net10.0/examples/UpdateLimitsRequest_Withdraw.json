@@ -1,9 +1,0 @@
-{
-    "balanceLimit": [
-        {
-            "currency": "THB",
-            "TransactionType": "Withdraw",
-            "limit": 30000.00
-        }
-    ]
-}

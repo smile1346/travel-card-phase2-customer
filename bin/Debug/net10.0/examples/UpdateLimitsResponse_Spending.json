@@ -1,9 +1,0 @@
-{
-    "balanceLimit": [
-        {
-            "currency": "THB",
-            "transactionType": "Spending",
-            "limit": 30000.00
-        }
-    ]
-}

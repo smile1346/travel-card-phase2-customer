@@ -1,8 +1,0 @@
-{
-    "type": "https://emoney.youtap.com/problems/resource-not-found",
-    "title": "Resource Not Found",
-    "detail": "Can't find account/timezone of account: 1234",
-    "status": 404,
-    "instance": "",
-    "errorKey": "resource_not_found"
-}
