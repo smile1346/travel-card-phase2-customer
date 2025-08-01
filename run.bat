@@ -1,0 +1,1 @@
+dotnet run --property WarningLevel=0

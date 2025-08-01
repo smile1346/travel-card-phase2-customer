@@ -1,0 +1,10 @@
+.curl-command div{
+    overflow: auto;
+    height: 100px;
+}
+
+.swagger-ui .opblock .opblock-summary .view-line-link {
+    width: 24px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
